@@ -1,0 +1,5 @@
+d0a05e5a
+
+45710e8952f9dbcf7f8afc6f96598a5e	—
+"https://api.edamam.com/search?q=chicken&app_id=d0a05e5a&app_key=45710e8952f9dbcf7f8afc6f96598a5e"
+
